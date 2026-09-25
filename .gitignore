@@ -47,3 +47,6 @@ ehthumbs.db
 *.log
 logs/
 .exe
+
+#node mdules
+/node_modules
