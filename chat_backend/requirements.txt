@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-python-dotenv
-pydantic
-
-langchain
-langchain-groq
-langchain-community
-tavily-python
